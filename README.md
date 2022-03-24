@@ -2,11 +2,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Jean Luca Augusto Canazart
+- Matrícula:18.1.5968
+- Curso: SI
+- Semestre/Ano correntes: 2021.2
+- Link para o seu GitHub:[JeanCanazart](https://github.com/JeanCanazart)
 
 ## [Projeto final:](./Projeto/README.md)
 
